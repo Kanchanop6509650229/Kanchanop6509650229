@@ -11,7 +11,7 @@
 ```
 
 <!-- เพิ่ม Animation ด้วย Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Back-end+Developer;Android+Developer;Devops+Engineer;QA+Tester)](https://git.io/typing-svg)
 
 <!-- Wave Animation -->
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
@@ -59,16 +59,14 @@ const techStack = {
 
 <!-- GitHub Stats with Animations -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kanchanop6509650229&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=8&hide_border=true&bg_color=00000000"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kanchanop6509650229&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=8&hide_border=true"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanchanop6509650229&layout=compact&langs_count=7&theme=tokyonight&border_radius=8&hide_border=true&bg_color=00000000"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanchanop6509650229&layout=compact&langs_count=7&theme=tokyonight&border_radius=8&hide_border=true"/>
 </div>
 
 <!-- GitHub Activity Graph -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kanchanop6509650229&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- Snake Animation -->
-![Snake animation](https://github.com/YourGitHubUsername/YourGitHubUsername/blob/output/github-contribution-grid-snake.svg)
 
 ## 🌟 Featured Projects
 <div align="center">
