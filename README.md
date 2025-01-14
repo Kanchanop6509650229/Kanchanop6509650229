@@ -72,10 +72,13 @@ const techStack = {
 
 ## 🌟 Featured Projects
 <div align="center">
-  <a href="https://github.com/Kanchanop6509650229/project1">
+  <a href="https://github.com/Kanchanop6509650229/JotSlip">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kanchanop6509650229&repo=project1&theme=tokyonight&hide_border=true&bg_color=00000000" />
   </a>
-  <a href="https://github.com/Kanchanop6509650229/project2">
+  <a href="https://github.com/Kanchanop6509650229/CS360-QWERTYUIOP">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kanchanop6509650229&repo=project1&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/Kanchanop6509650229/nodeJS_UnoCard">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kanchanop6509650229&repo=project2&theme=tokyonight&hide_border=true&bg_color=00000000" />
   </a>
 </div>
