@@ -31,31 +31,62 @@
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<!-- Tech Stack with Custom Animation -->
+<!-- Tech Stack with Modern Design -->
 <h2>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> 
-  My Tech Arsenal
+  Tech Stack
 </h2>
 
-<p align="center">
-  <!-- Animated Tech Icons -->
-  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50" title="React">
-  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50" title="GitHub">
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50" title="VSCode">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" title="JavaScript">
-</p>
+<div align="center">
+  
+  <!-- Frontend -->
+  <h3>🎨 Frontend</h3>
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  </p>
+  
+  <!-- Backend -->
+  <h3>⚙️ Backend</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  </p>
 
-<!-- Skill Matrix -->
-```javascript
-const techStack = {
-    "Frontend" : ["React.js", "Vue.js", "Next.js", "TailwindCSS"],
-    "Backend"  : ["Node.js", "Express", "Django", "FastAPI"],
-    "Database" : ["MongoDB", "PostgreSQL", "Redis", "Firebase"],
-    "DevOps"   : ["Docker", "AWS", "GitHub Actions"],
-    "Tools"    : ["Git", "Postman", "Figma"],
-    "Learning" : ["Rust", "WebAssembly", "Machine Learning"] 
-}
-```
+  <!-- Database -->
+  <h3>🗄️ Database</h3>
+  <p>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  </p>
+
+  <!-- DevOps -->
+  <h3>🚀 DevOps & Deployment</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  </p>
+
+  <!-- Tools -->
+  <h3>🛠️ Tools</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  </p>
+
+  <!-- Currently Learning -->
+  <h3>📚 Currently Learning</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white"/>
+  </p>
+</div>
 
 <!-- GitHub Stats with Animations -->
 <div align="center">
