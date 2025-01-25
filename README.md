@@ -111,7 +111,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kanchanop6509650229&repo=nodeJS_UnoCard&theme=tokyonight&hide_border=true&bg_color=00000000" />
   </a>
   <a href="https://github.com/Kanchanop6509650229/robotFramework.git">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kanchanop6509650229&repo=nodeJS_UnoCard&theme=tokyonight&hide_border=true&bg_color=00000000" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kanchanop6509650229&repo=robotFramework&theme=tokyonight&hide_border=true&bg_color=00000000" />
   </a>
 </div>
 
